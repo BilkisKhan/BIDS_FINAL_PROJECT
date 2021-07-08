@@ -1,0 +1,15 @@
+# Rename this file "creds.yaml" after entering your specifics!
+
+databases:
+    PRICES_DAILY:
+        user: 
+        password: 
+        host: 
+    PRICES_INTRADAY:
+        user: 
+        password: 
+        host: 
+datasources:
+    AlphaVantage:
+        api_key: 
+        url: https://www.alphavantage.co
